@@ -31,8 +31,3 @@
     <a href="https://www.instagram.com/nicolas_nxs/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </p>
 </div>
- 
-<h2 align="center"> Github status </h2>
-        <a href="https://github.com/nxsantos">
-        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=nxsantos&show_icons=true&theme=tokyonight&count_private=true"/>
-        <img height="190em" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxsantos&show_icons=true&theme=tokyoninight&count_private=true"/>
