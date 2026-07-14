@@ -1,9 +1,9 @@
 ## Hi, i´m Nicolas and i´m from Brazil!
 
 
-- 🔭 I intend to become a full-stack developer!
-- 🌱 Studying java!
-- 🤖 Experienced in back-end!
+- 🔭 I intend to become a data analyst!
+- 🌱 Studying SQL!
+- 🤖 Experienced in hospital system (MV, Wareline, Salutem)!
         
 <h2 align="center"> Languages </h2>
         
