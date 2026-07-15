@@ -1,31 +1,66 @@
-# Hi, i´m Nicolas and i´m from Brazil!
+<h2 data-importer="text" align="left">Hi, i´m Nicolas and i´m from Brazil!</h2>
 
-**`Hospital System Analyst`**
+###
 
-- 🔭 I intend to become a data analyst!
-- 🌱 Studying SQL!
-- 🤖 Experienced in hospital system (MV, Wareline, Salutem)!
-        
-<h2 align="center"> Languages </h2>
-        
-<div>
-<p align ="center">
-        <img alight="center" alt"nxsantos-Html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
-        <img alight="center" alt"nxsantos-Css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
-        <img alight="center" alt"nxsantos-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-        <img alight="center" alt"nxsantos-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
-        <img alight="center" alt"nxsantos-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
-  
-</p>
+<h3 data-importer="text" align="left">Hospital System Analyst<br><br>- 🔭 I intend to become a data analyst!<br>- 🌱 Studying SQL!<br>- 🤖 Experienced in hospital system (MV, Wareline, Salutem)!</h3>
+
+###
+
+<h2 data-importer="text" align="left">Languages</h2>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="35" alt="microsoftsqlserver logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="35" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="35" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" height="35" alt="r logo"  />
 </div>
-        
-<h2 align="center"> Social Medias </h2>
-  
-<div>
-<p align ="center">
-    <a href="https://github.com/nxsantos"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <a/>
-    <a href="nicolasantosouza04@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-    <a href="https://www.linkedin.com/in/nicolasantoss/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a/>
-    <a href="https://www.instagram.com/nicolas_nxs/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-</p>
+
+###
+
+<h2 data-importer="text" align="left">Social Medias</h2>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://nicolas015sds@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/nicolas_nxs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nicolasantoss/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<h2 data-importer="text" align="left">Stats</h2>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/nxsantos/nxsantos/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/nxsantos/nxsantos/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/nxsantos/nxsantos/snake-output/snake.svg" alt="Snake animation" />
+
+###
