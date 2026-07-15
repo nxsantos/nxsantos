@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi, i´m Nicolas and i´m from Brazil! 🇧🇷 </h2>
+<h2 data-importer="text" align="left">Hi, i´m Nicolas and i´m from Brazil!</h2>
 
 ###
 
