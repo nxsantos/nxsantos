@@ -1,26 +1,20 @@
 <h1 data-importer="text" align="left">Hi, i´m Nicolas and i´m from Brazil!</h1>
 
-###
 
-<h3 data-importer="text" align="left">🩺 About me
-<h3 data-importer="text" align="left">
+<h3>🩺 About me</h3>
 
-I work in IT within a hospital environment, from support to systems analysis day-to-day, I work directly with MV
+<p><strong>Bridging hospital systems experience with data-driven decision-making.</strong></p>
 
-Studying Systems Analysis and Development (ADS) at UNICID
-
-Transitioning careers, with a full focus on Data
-
-Currently learning SQL, Python, and Power BI
-
-My edge: I understand hospital routines and systems from the inside that's why I've focused my projects on healthcare data
-
-Open to opportunities as a Junior Data / BI Analyst
-###
+<ul>
+  <li>I work in IT within a hospital environment, from support to systems analysis hands-on daily with <strong>MV</strong></li>
+  <li>Studying <strong>Systems Analysis and Development (ADS)</strong> at UNICID</li>
+  <li>Transitioning careers with a full focus on <strong>Data</strong></li>
+  <li>Currently building skills in <strong>SQL</strong>, <strong>Python</strong>, and <strong>Power BI</strong></li>
+  <li>My edge: real, hands-on knowledge of hospital operations and systems which is why my projects focus on turning <strong>healthcare data</strong> into practical insight</li>
+  <li>Open to <strong>Junior Data/BI Analyst</strong> opportunities</li>
+</ul>
 
 <h2 data-importer="text" align="left">Languages</h2>
-
-###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
@@ -40,11 +34,9 @@ Open to opportunities as a Junior Data / BI Analyst
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" height="35" alt="r logo"  />
 </div>
 
-###
 
 <h2 data-importer="text" align="left">Social Medias</h2>
 
-###
 
 <div data-importer="socials" align="center">
   <a href="https://nicolas015sds@gmail.com" target="_blank">
