@@ -1,9 +1,21 @@
-<h2 data-importer="text" align="left">Hi, i´m Nicolas and i´m from Brazil!</h2>
+<h1 data-importer="text" align="left">Hi, i´m Nicolas and i´m from Brazil!</h1>
 
 ###
 
-<h3 data-importer="text" align="left">Hospital System Analyst<br><br>- 🔭 I intend to become a data analyst!<br>- 🌱 Studying SQL!<br>- 🤖 Experienced in hospital system (MV, Wareline, Salutem)!</h3>
+<h3 data-importer="text" align="left">🩺 About me
+<h3 data-importer="text" align="left">
 
+I work in IT within a hospital environment, from support to systems analysis day-to-day, I work directly with MV
+
+Studying Systems Analysis and Development (ADS) at UNICID
+
+Transitioning careers, with a full focus on Data
+
+Currently learning SQL, Python, and Power BI
+
+My edge: I understand hospital routines and systems from the inside that's why I've focused my projects on healthcare data
+
+Open to opportunities as a Junior Data / BI Analyst
 ###
 
 <h2 data-importer="text" align="left">Languages</h2>
