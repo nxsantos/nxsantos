@@ -6,7 +6,7 @@
 <p><strong>Bridging hospital systems experience with data-driven decision-making.</strong></p>
 
 <ul>
-  <li>I work in IT within a hospital environment, from support to systems analysis hands-on daily with MV</li>
+  <li>I work in IT within a hospital environment, from support to systems analysis hands-on daily with <strong>MV</strong></li>
   <li>Studying <strong>Systems Analysis and Development (ADS)</strong> at UNICID</li>
   <li>Transitioning careers with a full focus on <strong>Data</strong></li>
   <li>Currently building skills in <strong>SQL</strong>, <strong>Python</strong>, and <strong>Power BI</strong></li>
