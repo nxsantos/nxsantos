@@ -11,7 +11,6 @@
   <li>Transitioning careers with a full focus on <strong>Data</strong></li>
   <li>Currently building skills in <strong>SQL</strong>, <strong>Python</strong>, and <strong>Power BI</strong></li>
   <li>My edge: real, hands-on knowledge of hospital operations and systems which is why my projects focus on turning <strong>healthcare data</strong> into practical insight</li>
-  <li>Open to <strong>Junior Data/BI Analyst</strong> opportunities</li>
 </ul>
 
 <h2 data-importer="text" align="left">Languages</h2>
